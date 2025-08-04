@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-demo-app",
+  "version": "1.0.0",
+  "description": "This is a sample Node.js web app using the Express framework and EJS templates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benc-uk/nodejs-demoapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benc-uk/nodejs-demoapp/issues"
+  },
+  "homepage": "https://github.com/benc-uk/nodejs-demoapp#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
